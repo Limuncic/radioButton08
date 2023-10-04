@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\radioButton08\bin\Debug\radioButton08.exe.config
+C:\Users\ucenik\source\repos\radioButton08\bin\Debug\radioButton08.exe
+C:\Users\ucenik\source\repos\radioButton08\bin\Debug\radioButton08.pdb
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.Form1.resources
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.Properties.Resources.resources
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.exe
+C:\Users\ucenik\source\repos\radioButton08\obj\Debug\radioButton08.pdb
